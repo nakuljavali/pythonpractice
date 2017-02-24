@@ -3,3 +3,4 @@
 - [ ] Iterators
 - [x] Decoratos
 - [ ] Object Oriented
+- [ ] Lambda Functions
